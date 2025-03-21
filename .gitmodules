@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "firebase.auth.rest"]
+	path = firebase.auth.rest
+	url = https://github.com/kennedymwavu/firebase.auth.rest
 [submodule "micromodal"]
 	path = micromodal
 	url = https://github.com/kennedymwavu/micromodal
